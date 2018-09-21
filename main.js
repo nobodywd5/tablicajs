@@ -1,1 +1,1 @@
-var files = ["Music", "Document", "Video" "Foto"]
+var num = [3, 5, 7, 9];
